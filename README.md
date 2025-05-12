@@ -19,7 +19,35 @@ B.Tech in Electrical Engineering
 
 ---
 
-## 💻 Technical Skills
+## 💻 Technical Skills & 📚 Relevant Courses
+👩‍💻 Languages
+JavaScript, Python, C/C++, Java, HTML/CSS
+
+🎨 Frontend
+React, Tailwind CSS, Next.js, Three.js
+
+🛠️ Backend
+Node.js, Flask, FastAPI
+
+🧪 Libraries
+scikit-learn, Pandas, NumPy, Matplotlib
+
+⚙️ Developer Tools
+Git, VS Code
+
+🎨 Design Tools
+Figma, Canva
+
+📚 Relevant Courses
+Data Structures & Algorithms
+
+Pattern Recognition & Machine Learning
+
+Signals & Systems
+
+Introduction to Computer Science
+
+Probability, Statistics and Stochastic Processes
 
 ![Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,bootstrap,c,cpp,java,matlab,nextjs,nodejs,py,react,sklearn,tailwind,threejs,vscode,git,github,pandas,numpy)
 
