@@ -70,7 +70,7 @@ B.Tech in Electrical Engineering
 
 Feel free to reach out if you’d like to collaborate or just connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/tanisha-sonkar-19a489289/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-sonkar-19a489289/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://portfoliotanisha.vercel.app/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tanishasonkar110@gmail.com)
 
