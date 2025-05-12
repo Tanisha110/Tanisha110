@@ -35,7 +35,7 @@ B.Tech in Electrical Engineering
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tanisha110&theme=transparent&hide_border=true&title_color=7573a5&hide=prs,issues&text_color=eeeeee&icon_color=7573a5&text_bold=false" alt="Tanisha's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tanisha110&theme=transparent&title_color=7573a5&text_color=eeeeee&icon_color=7573a5&text_bold=false" alt="Tanisha's GitHub Stats" />
 
 ## 🗂️ Top Languages
 
