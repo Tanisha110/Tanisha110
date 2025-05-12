@@ -11,58 +11,48 @@ I'm always open to collaborating on meaningful projects or learning opportunitie
 
 ---
 
+## 💻 Technical Skills
+
+### 🧠 Languages  
+JavaScript, Python, C/C++, Java, HTML, CSS  
+![Languages](https://skillicons.dev/icons?i=js,py,c,cpp,java,html,css)
+
+### 🌐 Frontend  
+React, Tailwind CSS, Next.js, Three.js  
+![Frontend](https://skillicons.dev/icons?i=react,tailwind,nextjs,threejs)
+
+### ⚙️ Backend  
+Node.js, Flask, FastAPI  
+![Backend](https://skillicons.dev/icons?i=nodejs)
+
+### 📦 Libraries & Frameworks  
+scikit-learn, Pandas, NumPy, Matplotlib  
+
+### 🛠️ Tools  
+Git, Visual Studio Code  
+![Tools](https://skillicons.dev/icons?i=git,vscode)
+
+### 🎨 Design  
+Figma, Canva  
+![Design](https://skillicons.dev/icons?i=figma)
+
+---
+
+## 📚 Relevant Courses
+
+- Data Structures & Algorithms  
+- Pattern Recognition & Machine Learning  
+- Signals & Systems  
+- Introduction to Computer Science  
+- Probability, Statistics, and Stochastic Processes
+
+---
+
 ## 🎓 Education
 
 **Indian Institute of Technology Jodhpur**  
 B.Tech in Electrical Engineering  
 📅 Expected Graduation: **2027**
-
----
-
-## 💻 Technical Skills & 📚 Relevant Courses
-👩‍💻 Programming Languages
-JavaScript, Python, C/C++, Java, HTML/CSS
-
-<p> <img src="https://skillicons.dev/icons?i=js,py,c,cpp,java,html,css" alt="languages" /> </p>
-🎨 Frontend Development
-React, Tailwind CSS, Next.js, Three.js
-
-<p> <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,threejs" alt="frontend" /> </p>
-🛠️ Backend Development
-Node.js, Flask, FastAPI
-
-<p> <img src="https://skillicons.dev/icons?i=nodejs" alt="backend" /> </p>
-📦 Libraries & Frameworks
-scikit-learn, Pandas, NumPy, Matplotlib
-
-<p> <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy" alt="libraries" /> </p>
-⚙️ Developer Tools
-Git, VS Code
-
-<p> <img src="https://skillicons.dev/icons?i=git,vscode" alt="tools" /> </p>
-🎨 Design Tools
-Figma, Canva
-
-<p> <img src="https://skillicons.dev/icons?i=figma" alt="design" /> </p>
-📚 Relevant Courses
-Data Structures & Algorithms
-
-Pattern Recognition & Machine Learning
-
-Signals & Systems
-
-Introduction to Computer Science
-
-Probability, Statistics and Stochastic Processes
-
-
----
-
-## 🎨 Non-Technical Skills
-
-- Social Media Management  
-- DaVinci Resolve  
-- Graphic Design
 
 ---
 
@@ -76,5 +66,11 @@ Probability, Statistics and Stochastic Processes
 
 ---
 
-📫 **Get in touch**  
-If you’d like to collaborate or just connect, feel free to reach out!
+## 📫 Get in Touch
+
+Feel free to reach out if you’d like to collaborate or just connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/tanisha-sonkar-19a489289/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://portfoliotanisha.vercel.app/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tanishasonkar110@gmail.com)
+
