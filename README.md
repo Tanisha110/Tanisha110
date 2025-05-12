@@ -20,24 +20,30 @@ B.Tech in Electrical Engineering
 ---
 
 ## 💻 Technical Skills & 📚 Relevant Courses
-👩‍💻 Languages
+👩‍💻 Programming Languages
 JavaScript, Python, C/C++, Java, HTML/CSS
 
-🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=js,py,c,cpp,java,html,css" alt="languages" /> </p>
+🎨 Frontend Development
 React, Tailwind CSS, Next.js, Three.js
 
-🛠️ Backend
+<p> <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,threejs" alt="frontend" /> </p>
+🛠️ Backend Development
 Node.js, Flask, FastAPI
 
-🧪 Libraries
+<p> <img src="https://skillicons.dev/icons?i=nodejs" alt="backend" /> </p>
+📦 Libraries & Frameworks
 scikit-learn, Pandas, NumPy, Matplotlib
 
+<p> <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy" alt="libraries" /> </p>
 ⚙️ Developer Tools
 Git, VS Code
 
+<p> <img src="https://skillicons.dev/icons?i=git,vscode" alt="tools" /> </p>
 🎨 Design Tools
 Figma, Canva
 
+<p> <img src="https://skillicons.dev/icons?i=figma" alt="design" /> </p>
 📚 Relevant Courses
 Data Structures & Algorithms
 
@@ -49,7 +55,6 @@ Introduction to Computer Science
 
 Probability, Statistics and Stochastic Processes
 
-![Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,bootstrap,c,cpp,java,matlab,nextjs,nodejs,py,react,sklearn,tailwind,threejs,vscode,git,github,pandas,numpy)
 
 ---
 
