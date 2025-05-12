@@ -15,26 +15,26 @@ I'm always open to collaborating on meaningful projects or learning opportunitie
 
 ### 🧠 Languages  
 JavaScript, Python, C/C++, Java, HTML, CSS  
-![Languages](https://skillicons.dev/icons?i=js,py,c,cpp,java,html,css)
+![Languages](https://skillicons.dev/icons?i=js,py,c,cpp,java,html,css&size=5)
 
 ### 🌐 Frontend  
 React, Tailwind CSS, Next.js, Three.js  
-![Frontend](https://skillicons.dev/icons?i=react,tailwind,nextjs,threejs)
+![Frontend](https://skillicons.dev/icons?i=react,tailwind,nextjs,threejs&size=5)
 
 ### ⚙️ Backend  
 Node.js, Flask, FastAPI  
-![Backend](https://skillicons.dev/icons?i=nodejs)
+![Backend](https://skillicons.dev/icons?i=nodejs&size=5)
 
 ### 📦 Libraries & Frameworks  
 scikit-learn, Pandas, NumPy, Matplotlib  
 
 ### 🛠️ Tools  
 Git, Visual Studio Code  
-![Tools](https://skillicons.dev/icons?i=git,vscode)
+![Tools](https://skillicons.dev/icons?i=git,vscode&size=5)
 
 ### 🎨 Design  
 Figma, Canva  
-![Design](https://skillicons.dev/icons?i=figma)
+![Design](https://skillicons.dev/icons?i=figma&size=5)
 
 ---
 
